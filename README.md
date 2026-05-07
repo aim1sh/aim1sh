@@ -124,7 +124,7 @@ class aim1sh:
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aim1sh.dev">
+  <a href="https://linkedin.com/in/aim1shdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aim1shumar20@gmail.com">
