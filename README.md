@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/aim1sh?style=flat-square&color=236d32" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI%20Systems-1f6feb?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-green?style=flat-square" />
-  <img src="https://raw.githubusercontent.com/aim1sh/aim1sh/output/github-contribution-grid-snake-dark.svg" />
+ 
 </p>
 
 ---
