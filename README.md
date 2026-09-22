@@ -2,7 +2,7 @@
 
 Software engineering student building practical AI agents, cloud-backed applications, and full-stack products.
 
-I enjoy turning real workflows into reliable software—from multi-tenant WhatsApp agents for hotel reservations to tools that generate developer portfolios from GitHub data. I'm currently strengthening my open-source track record and exploring research topics for a future master's degree.
+I enjoy turning real workflows into reliable software from multi-tenant WhatsApp agents for hotel reservations to tools that generate developer portfolios from GitHub data. I'm currently strengthening my open-source track record and exploring research topics for a future master's degree.
 
 ## What I'm building
 
