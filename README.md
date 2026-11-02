@@ -8,12 +8,12 @@ I enjoy turning real workflows into reliable software from multi-tenant WhatsApp
 
 - **WhatsApp Agentic AI** — A multi-tenant SaaS platform that helps hotels automate reservation conversations and operational workflows through WhatsApp.
 - **DevFolio AI** — A MERN application that analyzes GitHub activity and resumes, uses AWS Bedrock for AI-generated content, stores assets in Amazon S3, and publishes a live developer portfolio.
-- **Open-source contributions** — Fixing production issues in agentic-AI and developer-tooling projects, with tests and maintainer-ready pull requests.
+- **Open-source work** — Contributing focused fixes and tests to developer-tooling projects.
 
-## Open source
+## Open Source
 
-- **Evolution API** — Prevented instance tokens from being returned when token exposure is disabled ([PR #2736](https://github.com/evolution-foundation/evolution-api/pull/2736)).
-- **Cognee** — Corrected Neo4j edge direction handling so agent-memory consolidation receives accurate relationship data (PR prepared for issue [#4967](https://github.com/topoteretes/cognee/issues/4967)).
+- **Merged** — [Promptfoo #11298](https://github.com/promptfoo/promptfoo/pull/11298): made dataset-synthesis persona extraction handle common JSON response shapes while rejecting invalid data.
+- **In review** — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80): makes model list and view prefer the installed release version, with fallback regression tests.
 
 ## Technologies
 
