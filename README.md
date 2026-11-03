@@ -1,30 +1,16 @@
-# Hi, I'm Aimish 👋
+# Hi, I'm Aimish
 
-Software engineering student building practical AI agents, cloud-backed applications, and full-stack products.
+I'm a Software Engineering student building AI agents and backend systems for real workflows. I work on a multi-tenant WhatsApp automation and CRM platform that helps hotels handle reservation conversations and operational follow-up in one place. I also built DevFolio AI, a MERN application that analyzes GitHub activity and resumes, then uses AWS Bedrock and Amazon S3 to publish developer portfolios.
 
-I enjoy turning real workflows into reliable software from multi-tenant WhatsApp agents for hotel reservations to tools that generate developer portfolios from GitHub data. I'm currently strengthening my open-source track record and exploring research topics for a future master's degree.
-
-## What I'm building
-
-- **WhatsApp Agentic AI** — A multi-tenant SaaS platform that helps hotels automate reservation conversations and operational workflows through WhatsApp.
-- **DevFolio AI** — A MERN application that analyzes GitHub activity and resumes, uses AWS Bedrock for AI-generated content, stores assets in Amazon S3, and publishes a live developer portfolio.
-- **Open-source work** — Contributing focused fixes and tests to developer-tooling projects.
+The work I enjoy most is tracing messy inputs, choosing explicit fallbacks, and making automated workflows easier to trust.
 
 ## Open Source
 
-- **Merged** — [Promptfoo #11298](https://github.com/promptfoo/promptfoo/pull/11298): made dataset-synthesis persona extraction handle common JSON response shapes while rejecting invalid data.
-- **Merged** — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80): makes model list and view prefer the installed release version, with fallback regression tests.
+- **Merged — [Promptfoo #11298](https://github.com/promptfoo/promptfoo/pull/11298):** broadened dataset-synthesis persona parsing across common JSON response shapes while rejecting invalid test data.
+- **Merged — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80):** corrected model list and view so they show installed release versions instead of definition schema versions, with regression coverage for fallback cases.
 
-## Technologies
+## Stack & Focus
 
-`TypeScript` · `JavaScript` · `Python` · `React` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `AWS Bedrock` · `Amazon S3` · `Docker` · `Git`
+Practical stack: TypeScript, JavaScript, React, Node.js, PostgreSQL, REST APIs, AWS Bedrock, and Amazon S3.
 
-## Currently
-
-- Contributing to open-source AI-agent infrastructure
-- Improving my AWS and production engineering skills
-- Preparing AI/software-engineering research work for master's applications
-
----
-
-I'm open to software engineering opportunities where I can build useful AI products and grow with a strong team.
+I'm currently focused on reliable backend services, useful AI integrations, and well-tested developer tooling.
