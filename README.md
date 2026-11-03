@@ -13,7 +13,7 @@ I enjoy turning real workflows into reliable software from multi-tenant WhatsApp
 ## Open Source
 
 - **Merged** — [Promptfoo #11298](https://github.com/promptfoo/promptfoo/pull/11298): made dataset-synthesis persona extraction handle common JSON response shapes while rejecting invalid data.
-- **In review** — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80): makes model list and view prefer the installed release version, with fallback regression tests.
+- **Merged** — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80): makes model list and view prefer the installed release version, with fallback regression tests.
 
 ## Technologies
 
