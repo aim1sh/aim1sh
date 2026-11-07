@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student building AI agents and backend systems for real workflows. I work on a multi-tenant WhatsApp automation and CRM platform that helps hotels handle reservation conversations and operational follow-up in one place. I also built DevFolio AI, a MERN application that analyzes GitHub activity and resumes, then uses AWS Bedrock and Amazon S3 to publish developer portfolios.
 
-The work I enjoy most is tracing messy inputs, choosing explicit fallbacks, and making automated workflows easier to trust.
+The work I enjoy most is tracing messy inputs, choosing explicit fallbacks, and making automated workflows easier to trust. If you’d like to suggest a focused update, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Open Source
 
