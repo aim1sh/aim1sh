@@ -8,6 +8,7 @@ The work I enjoy most is tracing messy inputs, choosing explicit fallbacks, and 
 
 - **Merged — [Promptfoo #11298](https://github.com/promptfoo/promptfoo/pull/11298):** broadened dataset-synthesis persona parsing across common JSON response shapes while rejecting invalid test data.
 - **Merged — [Meshery AXI #80](https://github.com/meshery-extensions/mesheryctl-axi/pull/80):** corrected model list and view so they show installed release versions instead of definition schema versions, with regression coverage for fallback cases.
+- **Merged — [Meshery AXI #84](https://github.com/meshery-extensions/mesheryctl-axi/pull/84):** added single-file argument validation, stream and exit status retention, and contract/envtest checks for model import.
 
 ## Stack & Focus
 
